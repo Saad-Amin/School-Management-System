@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\school management system\school management system\bin\Debug\school management system.exe.config
+C:\Users\dell\source\repos\school management system\school management system\bin\Debug\school management system.exe
+C:\Users\dell\source\repos\school management system\school management system\bin\Debug\school management system.pdb
+C:\Users\dell\source\repos\school management system\school management system\obj\Debug\school management system.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\school management system\school management system\obj\Debug\school management system.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\school management system\school management system\obj\Debug\school management system.exe
+C:\Users\dell\source\repos\school management system\school management system\obj\Debug\school management system.pdb

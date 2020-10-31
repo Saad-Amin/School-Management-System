@@ -1,2 +1,2 @@
 # School-Management-System
- School managemen system using C# .net
+ school management system console based using C# 
